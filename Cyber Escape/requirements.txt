@@ -1,5 +1,0 @@
-pygame
-
-use command prompt for installation
-
-pip install pygame
