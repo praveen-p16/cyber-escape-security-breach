@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+cyber_highscores.txt
+.env
+.vscode/
+.idea/
+.DS_Store
